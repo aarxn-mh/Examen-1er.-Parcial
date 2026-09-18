@@ -1,0 +1,11 @@
+Se investigo con uso de la herrmienta de IA como se usa correctamente computed() y
+como funciona realmente (significa derivar un valor a patir de otra señal),
+su sintaxis. Tambien se investigo la funcion filter() en 
+users.filter(), que es un arreglo nuevo pero en este ejericio excluyendo al id correspondiente.
+
+
+Tambien se investifgo un poco lo de @empty, en donde colocarlo, mas bien porq 
+tenia un poco de dudas.
+
+Y por ultimo se reviso la documentacion de angular para utilizar output, 
+pero con tipado (number).
